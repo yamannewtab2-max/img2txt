@@ -4,6 +4,8 @@ Turn images and scans into text. Two ways, both unlimited and free.
 
 ## 1. Web app (no install)
 
+**Live: https://img2txt-tau.vercel.app**
+
 Single-file, runs fully in the browser (WASM Tesseract) — **your files are never uploaded to a server**.
 Open `index.html`, choose images, pick a language, hit Start. Copy text per page or download everything as one `.txt`.
 
