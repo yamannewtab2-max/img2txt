@@ -1,0 +1,5 @@
+in/
+ocr-out/
+*.traineddata
+.vercel
+__pycache__/
